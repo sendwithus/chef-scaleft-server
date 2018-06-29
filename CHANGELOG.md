@@ -1,6 +1,6 @@
-# chef-scaleft-server CHANGELOG
+# scaleft-server CHANGELOG
 
-This file is used to list changes made in each version of the chef-scaleft-server cookbook.
+This file is used to list changes made in each version of the scaleft-server cookbook.
 
 # 0.1.0
 

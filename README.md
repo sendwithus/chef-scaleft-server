@@ -1,4 +1,4 @@
-# chef-scaleft-server
+# scaleft-server
 
-Installs/Configures chef-scaleft-server
+Installs/Configures scaleft-server
 

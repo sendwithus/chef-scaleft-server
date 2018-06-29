@@ -1,5 +1,5 @@
 #
-# Cookbook:: chef-scaleft-server
+# Cookbook:: scaleft-server
 # Recipe:: default
 #
 # Copyright:: 2018, The Authors, All Rights Reserved.
