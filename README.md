@@ -1,2 +1,4 @@
 # chef-scaleft-server
-Chef cookbook for deploying scaleft
+
+Installs/Configures chef-scaleft-server
+
